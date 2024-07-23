@@ -15,6 +15,7 @@ A `HTML, CSS` Project. Made with ♥ by the `web cifar community`. There will be
 - Scroll Animation
 - Netlify Deployment
 - Netlify Form functionality
+- image resolution (370 x 313)
 - More . . .
 
 ## Starter files
